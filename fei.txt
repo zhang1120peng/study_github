@@ -6,3 +6,9 @@ aaa
 phpinfo();
 
 ?>
+
+sdfds
+
+ssdfd
+
+修改fei.txt 
